@@ -1,0 +1,29 @@
+.skill{
+    background-image: url("./joanna-kosinska-7ACuHoezUYk-unsplash.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.skill-ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid red; */
+    height: 100vh;
+    
+
+}
+.wrap{
+    /* border: 2px solid brown; */
+    width: 50vw;
+    margin-left: 300px;
+   
+}
+.skill-ul li{
+    font-size: 30px;
+    margin: 30px;
+    color: white;
+    list-style: none;
+    border: 1px solid skyblue;
+    border-radius: 5px;
+
+}

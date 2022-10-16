@@ -1,0 +1,25 @@
+.exper{
+    background-image: url("./joanna-kosinska-7ACuHoezUYk-unsplash.jpg");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    flex-direction: column;
+}
+.exper-div1{
+    height: 200px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #502880;
+    margin: 20px;
+    margin-left: 300px;
+}
+.exper-div1 h1, p{
+    color: white;
+    font-weight: 300;
+
+}
